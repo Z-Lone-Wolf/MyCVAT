@@ -1,4 +1,8 @@
 # Initial use
+## Docker Image
+```bash
+docker pull wuye88/cvat:1.7
+```
 ## 1.Create a mount directory
 ```bash
 pwd=`pwd`
